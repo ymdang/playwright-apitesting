@@ -1,0 +1,26 @@
+{
+  bookingid: 6996,
+  booking: {
+    firstname: 'David',
+    lastname: 'Smith',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+    additionalneeds: 'N/A'
+  }
+}
+===================
+[
+  { bookingid: 1927 }, { bookingid: 1734 },
+  { bookingid: 6952 }, { bookingid: 1776 },
+  { bookingid: 6954 }, { bookingid: 5070 },
+  { bookingid: 5142 }, { bookingid: 6994 },
+  { bookingid: 1875 }, { bookingid: 1799 },
+  { bookingid: 5105 }, { bookingid: 1733 },
+  { bookingid: 6953 }, { bookingid: 5108 },
+  { bookingid: 1732 }, { bookingid: 5071 },
+  { bookingid: 1862 }, { bookingid: 1779 },
+  { bookingid: 6993 }, { bookingid: 5068 },
+  { bookingid: 5140 }, { bookingid: 6996 },
+  { bookingid: 5107 }, { bookingid: 5143 }
+]
