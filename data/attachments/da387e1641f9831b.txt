@@ -1,0 +1,31 @@
+==POST API==
+{
+  bookingid: 7016,
+  booking: {
+    firstname: 'David',
+    lastname: 'Smith',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+    additionalneeds: 'N/A'
+  }
+}
+==GET API==
+{
+  firstname: 'David',
+  lastname: 'Smith',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'N/A'
+}
+Token No is : 3ccb4b9ab3b85ab
+==PUT API==
+{
+  firstname: 'Sam',
+  lastname: 'Smith',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'super bowls'
+}

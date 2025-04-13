@@ -1,0 +1,11 @@
+{
+  bookingid: 2355,
+  booking: {
+    firstname: 'Neoma',
+    lastname: 'Hudson',
+    totalprice: 257,
+    depositpaid: true,
+    bookingdates: { checkin: '2025-04-14', checkout: '2025-04-19' },
+    additionalneeds: 'super bowls'
+  }
+}

@@ -1,0 +1,23 @@
+{
+  bookingid: 2349,
+  booking: {
+    firstname: 'David',
+    lastname: 'Smith',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+    additionalneeds: 'N/A'
+  }
+}
+===================
+[
+  { bookingid: 2108 },
+  { bookingid: 1980 },
+  { bookingid: 1972 },
+  { bookingid: 2097 },
+  { bookingid: 2349 },
+  { bookingid: 2338 },
+  { bookingid: 1973 },
+  { bookingid: 2107 },
+  { bookingid: 2348 }
+]

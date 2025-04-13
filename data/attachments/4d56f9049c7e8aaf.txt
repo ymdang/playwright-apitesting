@@ -1,0 +1,13 @@
+{
+  bookingid: 1980,
+  booking: {
+    firstname: 'David',
+    lastname: 'Smith',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+    additionalneeds: 'N/A'
+  }
+}
+===================
+[ { bookingid: 1980 }, { bookingid: 1972 }, { bookingid: 1973 } ]

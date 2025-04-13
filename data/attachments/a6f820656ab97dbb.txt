@@ -1,0 +1,32 @@
+==POST API==
+{
+  bookingid: 2076,
+  booking: {
+    firstname: 'David',
+    lastname: 'Smith',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+    additionalneeds: 'N/A'
+  }
+}
+==GET API==
+{
+  firstname: 'David',
+  lastname: 'Smith',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'N/A'
+}
+Token No is : 91fcb059f78860a
+==PATCH API==
+{
+  firstname: 'Ben',
+  lastname: 'Smith',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'N/A'
+}
+==DELETE API==
